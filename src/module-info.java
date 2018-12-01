@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author yafta
+ *
+ */
+module inconsistency {
+}
